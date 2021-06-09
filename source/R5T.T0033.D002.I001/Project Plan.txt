@@ -1,0 +1,7 @@
+R5T.T0033.D002.I001 - StringBuilderSubstitutionTarget-based IStringSubstitutionInterpreter service definitions library.
+
+Both the string substitution scheme and the relevant substitutions are parameterized.
+
+
+Goals
+

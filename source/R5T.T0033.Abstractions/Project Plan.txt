@@ -1,0 +1,4 @@
+R5T.T0033.Abstractions - Abstractions for the IStringSubstitutionScheme types library.
+
+Goals
+

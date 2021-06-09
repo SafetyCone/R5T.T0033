@@ -1,0 +1,5 @@
+R5T.T0033.D002.X001 - Adds extensions for using the percent-based string substitution scheme for the IStringSubstitutionInterpreter service.
+
+
+Goals
+

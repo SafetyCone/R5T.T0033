@@ -1,0 +1,7 @@
+R5T.T0033.D001 - Parameterless IStringSubstitutionInterpreter service definitions library.
+
+Both the string substitution scheme and the relevant substitutions are internal to the service implementation.
+
+
+Goals
+

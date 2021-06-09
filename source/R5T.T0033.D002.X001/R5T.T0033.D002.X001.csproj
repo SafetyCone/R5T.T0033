@@ -1,12 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\R5T.T0033.D002.Percent\R5T.T0033.D002.Percent.csproj" />
+    <ProjectReference Include="..\R5T.T0033.D002.Base\R5T.T0033.D002.Base.csproj" />
+    <ProjectReference Include="..\R5T.T0033.T002\R5T.T0033.T002.csproj" />
   </ItemGroup>
 
 </Project>

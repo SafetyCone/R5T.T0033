@@ -1,0 +1,4 @@
+R5T.T0033.T002 - PercentStringSubstitutionScheme type library (for IStringSubstitutionScheme).
+
+Goals
+

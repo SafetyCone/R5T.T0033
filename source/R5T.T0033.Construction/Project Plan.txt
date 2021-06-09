@@ -1,4 +1,11 @@
 R5T.T0033.Construction - A construction console-app for the library R5T.T0033.
 
-Goals
+
+* R5T.T0033.Abstractions - IStringSubstitutionScheme and ISubstitutionTarget definitions.
+
+* R5T.T0033.T001 - StringBuilderSubstitutionTarget functionality.
+* R5T.T0033.T002 - PercentStringSubstitutionScheme functionality.
+
+* R5T.T0033.D001.Base - Parameterless IStringSubstitutionInterpreter - both the string substitution scheme and the relevant substitutions are internal to the service implementation.
+* R5T.T0033.D002.Base - Parameterized IStringSubstitutionInterpreter - both the string substitution scheme and the relevant substitutions are parameterized.
 

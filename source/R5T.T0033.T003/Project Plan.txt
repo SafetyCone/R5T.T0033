@@ -1,0 +1,4 @@
+R5T.T0033.T003 - StringSubstitutionInterpretationOptions type library (for IStringSubstitutionScheme).
+
+Goals
+

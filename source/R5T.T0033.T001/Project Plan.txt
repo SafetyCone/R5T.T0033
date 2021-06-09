@@ -1,0 +1,4 @@
+R5T.T0033.T001 - StringBuilderSubstitutionTarget type library (for IStringSubstitutionScheme).
+
+Goals
+
