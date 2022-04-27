@@ -7,7 +7,7 @@ namespace R5T.T0033.T002
 {
     public class PercentStringSubstitutionScheme : IStringSubstitutionScheme
     {
-        public const string SubstitutionCodeDelimiter = Strings.Percent;
+        public static readonly string SubstitutionCodeDelimiter = Strings.Percent;
 
 
         public string CreateSubstitutionCode(string substitutionToken)

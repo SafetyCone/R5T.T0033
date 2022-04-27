@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Threading.Tasks;
+using System.Threading.Tasks;using R5T.T0064;
 
 
 namespace R5T.T0033.D002.I001
-{
-    public class StringSubstitutionInterpreter : IStringSubstitutionInterpreter
+{[ServiceImplementationMarker]
+    public class StringSubstitutionInterpreter : IStringSubstitutionInterpreter,IServiceImplementation
     {
         public Task<string> Interpret(string substitutionTarget, IStringSubstitutionScheme stringSubstitutionScheme, IDictionary<string, string> substitutions,
             bool substitutionValuesByCodeProvided, bool recursive)
